@@ -1,7 +1,3 @@
-Sure, here's a sample README file for your Hospital Management System project using MySQL. This document will help users understand how to set up, use, and contribute to your project.
-
----
-
 # Hospital Management System
 
 ## Introduction
